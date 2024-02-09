@@ -1,9 +1,4 @@
-**The repository has been archived due to: [README.md](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/blob/main/CFW/README.md)**
 
-
-***
-
-# Clash for Windows Chinese<img src="https://github.com/Z-Siqi/Clash-for-Windows_Chinese/blob/main/image/image_clash.png?raw=true" width="30" height="30">
 ### Clash 汉化版
 
 **提供clash for windows的汉化版, 汉化补丁以及汉化版Clash安装程序**
@@ -21,10 +16,11 @@
 
 **基本特征&介绍:**
 
-* 使用安装程序(Clash.for.Windows.Setup. ** . ** . ** .exe)安装的汉化版CFW将劫持更新，之后可直接通过应用内置的更新方式进行汉化版/软件更新
+~~* 使用安装程序(Clash.for.Windows.Setup. ** . ** . ** .exe)安装的汉化版CFW将劫持更新，之后可直接通过应用内置的更新方式进行汉化版/软件更新~~PS:clash原版已删档，更新暂停
 * 使用安装包(Clash.for.Windows- ** . ** . ** -win.7z)请不要在解压时选择解压到当前文件夹，否则软件相关的所有文件将放到当前所在文件夹
-* app.asar需要替换掉对应版本的原版app.asar以完成汉化
-* 使用7z格式压缩包(app.7z)需要先进行解压，然后提取里面的app.asar并替换掉原有文件以完成汉化，即在节省流量
+~~* app.asar需要替换掉对应版本的原版app.asar以完成汉化~~
+~~* 使用7z格式压缩包(app.7z)需要先进行解压，然后提取里面的app.asar并替换掉原有文件以完成汉化，即在节省流量~~
+PS:最新版本已汉化
 
 **<details><summary>下载前你需要知晓的内容:</summary>**
 
@@ -40,8 +36,6 @@
       1, 修改"app.asar"文件中的"renderer.js"
       2, 修改"app.asar"文件中的"main.js"
       3, 修改"app.asar"文件中的"zh-cn.js"
-    对Clash for Windows植入的第三方链接:
-      1, https://github.com/Z-Siqi/Clash-for-Windows_Chinese-Attached
     对app.asar替换的文件:
       1, app.asar\dist\electron\static\*
     汉化的方式
@@ -79,7 +73,7 @@
     ----------------------------------------------------
     * Important, You MUST agree!
     * 此项目不为中国大陆地区提供任何帮助与支持
-    * 赞助商的一切内容与该库无关
+    * 赞助商的一切内容与该库无关，已被删除
     * 该库不承担由使用者造成的任何行为
     * 该库的所有内容仅存在于GitHub
     * 此汉化版适用于Clash for Windows免责声明的 1 ~ 6 条
@@ -104,21 +98,16 @@
 
 *** 
 
-#### 赞助商的广告
+#### ~~赞助商的广告~~（已被本备份库移除）
 
-[推荐使用OK加速器  优惠码:clash](https://zhuri.cc/auth/register?code=6666)
+~~[推荐使用OK加速器  优惠码:clash](https://zhuri.cc/auth/register?code=6666)~~
 
-购买小火箭、圈X、Google voice👉[神马杂货铺](https://googlevoice.top/)
+~~购买小火箭、圈X、Google voice👉[神马杂货铺](https://googlevoice.top/)~~
 
-快速使用 ChatGPT：[chat1.woaiai.cc](https://chat1.woaiai.cc/)
-
+~~快速使用 ChatGPT：[chat1.woaiai.cc](https://chat1.woaiai.cc/)~~
+作为补偿，本库自建免费野生节点订阅奉上（时不时会更新，稳定性无法保证）
+https://www.z-bamboo.eu.org/proxy.yaml
 ***
-### 快速导航
-[前往汉化下载界面](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases)
-
-[前往下载机场引流推广版 (去广告和更新检测)](https://github.com/Z-Siqi/CFW-custom-made)
-
-[前往原版Clash for Windows下载界面](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
 #### 能够解压7z格式的软件
 
